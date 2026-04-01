@@ -19,11 +19,11 @@ export default function Home() {
             <div className="space-y-10 animate-fade-in-up">
               <div className="space-y-6">
                 <div className="section-label">Where Execution Meets Growth</div>
-                <h1 className="text-6xl md:text-8xl font-black text-gray-900 leading-[0.95] tracking-tighter">
+                <h1 className="text-7xl md:text-[6.5rem] font-black text-gray-900 leading-[0.9] tracking-tighter">
                   Experience <br />
                   <span className="text-primary italic">Real Growth.</span>
                 </h1>
-                <p className="text-xl md:text-2xl text-gray-500 max-w-xl leading-relaxed font-medium">
+                <p className="text-2xl md:text-3xl text-gray-500 max-w-xl leading-relaxed font-medium">
                   End-to-end Sales, Staffing & <br className="hidden md:block" />Customer Engagement Solutions.
                 </p>
               </div>
